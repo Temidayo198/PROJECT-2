@@ -1,4 +1,4 @@
-# Project Title: Sales Performance Analysis for a Retail Store
+# Project Title: Understanding Subscribers: Customer Segmentation Analysis for a Subscription Service
 
 ## Table of Contents
 [Project Overview](#project-overview)
