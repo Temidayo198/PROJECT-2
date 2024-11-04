@@ -29,7 +29,23 @@ The dataset used for this analysis was provided by the course facilitator as par
 
 ### Tool Used
 ---
+- PowerBI
+  
+1. Data Integration
+2. Data Visualization
 
-### Data Analysis Process
+###  Data Analysis Process
 ---
 
+Data Integration: This involve connecting to Excel to fetch my data.
+
+Data Visualization: The use of various visual elements (charts, graphs, tables, cards) to represent data visually.
+
+### Results
+---
+
+### Recommendations
+---
+
+### Conclusion
+---
