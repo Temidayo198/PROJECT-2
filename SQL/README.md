@@ -100,5 +100,21 @@ GROUP BY [Canceled] ORDER BY STATUS_COUNT
 
 ```
 
+![Screenshot (44)](https://github.com/user-attachments/assets/7e307fe6-7e74-4eb8-8432-04cc1173168a)
+
+![Screenshot (56)](https://github.com/user-attachments/assets/c942a491-2e63-401e-9f36-8073d294b94d)
+
+![Screenshot (48)](https://github.com/user-attachments/assets/35f153fc-afc7-4f08-b31b-c57731c11f8c)
+
+![Screenshot (45)](https://github.com/user-attachments/assets/aa742456-7df7-4837-ba73-cf9b1bdcfe0d)
+
+![Screenshot (53)](https://github.com/user-attachments/assets/3d28963d-fb63-497c-973c-567f1a286308)
+
+![Screenshot (54)](https://github.com/user-attachments/assets/55459ec8-9f0a-429e-bd7d-01a87253ebb0)
+
+![Screenshot (47)](https://github.com/user-attachments/assets/5180212c-5bce-46cd-828a-808a51fd5916)
+
+![Screenshot (55)](https://github.com/user-attachments/assets/bb7ebbf2-5e20-401c-a131-0e90761dbb56)
+
 
 
