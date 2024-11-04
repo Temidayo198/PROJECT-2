@@ -68,3 +68,18 @@ Data Analysis Techniques: This involve using analytical functions to derive insi
    =UNIQUE(A2:A6)
 
   ```
+
+ - Data Summarization: create summaries using **`Pivot Tables`** making it easier to identify patterns or issues.
+
+
+
+
+
+### Results
+---
+
+### Recommendations
+---
+
+### Conclusion
+---
