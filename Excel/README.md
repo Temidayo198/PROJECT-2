@@ -11,12 +11,6 @@
 
 [Data Analysis Process](#data-analysis-process)
 
-[Results](#results)
-
-[Recommendations](#recommendations)
-
-[Conclusion](#conclusion)
-
 ### Project Overview
 ---
 This project involve analyzing customer data from a subscription service to identify distinct customer segments based on their subscription patterns, preferences, and behaviors. By utilizing data analysis techniques, particularly pivot tables, the project seeks to uncover insights that can inform targeted marketing strategies and improve customer retention.
@@ -86,11 +80,4 @@ Data Analysis Techniques: This involve using analytical functions to derive insi
 
 ![Screenshot (19)](https://github.com/user-attachments/assets/58b36a02-29b6-4325-a9f1-2e96c394d603)
 
-### Results
----
 
-### Recommendations
----
-
-### Conclusion
----
