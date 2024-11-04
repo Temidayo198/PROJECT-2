@@ -29,3 +29,25 @@ This project involve analyzing customer data from a subscription service to iden
 - Categorize customers into distinct segments based on subscription behavior.
 - Develop actionable recommendations for marketing strategies based on analysis.
 
+### Data Source
+---
+The dataset used for this analysis was provided by the course facilitator as part of the capstone project for data analysis training.
+
+### Tool Used 
+---
+- Microsoft Excel [Download Here](https://www.microsoft.com)
+  1. For Data Cleaning and Preparation
+  2. For Analysis
+ 
+###  Data Analysis Process
+---
+
+- Data Import:
+The dataset was downloaded from the Canvas infrastructure and loaded into Excel for analysis.
+
+- Data Cleaning and Preparation:
+  1. Removed duplicate entries to ensure data accuracy.
+  2. Cleared blank cells to prevent inconsistencies in calculations and summaries.
+
+- Data Transformation: This involve structuring data into table by using **`ctrl+T`** shortcut
+
