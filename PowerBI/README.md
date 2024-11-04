@@ -11,3 +11,24 @@
 
 [Data Analysis Process](#data-analysis-process)
 
+### Project Overview
+---
+
+The project aim to visualize customer segments, subscription trends, and cancellation patterns to uncover actionable insights that can enhance business strategies and improve customer retention. Using PowerBI for visualization, this dashboard will enable stakeholders to easily track key metrics related to customer behavior and subscription lifecycles.
+
+### Project Objectives
+---
+The goal is to;
+- build a Power BI dashboard that visualizes key customer segments,cancellations, and subscription trends.
+- give insights obtained from the data.
+- give actionable recommendations enhance business strategies and improve customer retention.
+   
+### Data Source
+---
+
+### Tool Used
+---
+
+### Data Analysis Process
+---
+
