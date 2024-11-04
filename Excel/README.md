@@ -51,3 +51,20 @@ The dataset was downloaded from the Canvas infrastructure and loaded into Excel 
 
 - Data Transformation: This involve structuring data into table by using **`ctrl+T`** shortcut
 
+Data Analysis Techniques: This involve using analytical functions to derive insights from data. Functions include;
+  **`SUM`**, **`AVERAGE`**, **`UNIQUE`**
+
+  ```Excel
+
+  |Customer Name| Revenue |
+  | Liam        |  3000   |
+  | John        |  2500   |
+  | Alex        |  4500   |
+  | Eva         |  3000   |
+  | John        |  2500   |
+
+   =SUM(B2:B6)
+   =AVERAGE(B2:B6)
+   =UNIQUE(A2:A6)
+
+  ```
