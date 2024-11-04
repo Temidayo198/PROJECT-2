@@ -26,7 +26,7 @@ The project aim to visualize customer segments, subscription trends, and cancell
 ---
 The goal is to;
 - build a Power BI dashboard that visualizes key customer segments,cancellations, and subscription trends.
-- give insights obtained from the data.
+- give insights obtained from the data analysis in Excel and SQL.
 - give actionable recommendations enhance business strategies and improve customer retention.
    
 ### Data Source
