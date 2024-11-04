@@ -72,9 +72,19 @@ Data Analysis Techniques: This involve using analytical functions to derive insi
 
  - Data Summarization: create summaries using **`Pivot Tables`** making it easier to identify patterns or issues.
 
+![IMG_3373](https://github.com/user-attachments/assets/966cf034-6446-45cc-b401-29118a4a2697)
 
+![IMG_3367](https://github.com/user-attachments/assets/7b60f2d8-c2db-47ba-bd3f-5bdf15c66269)
 
+![IMG_3369](https://github.com/user-attachments/assets/ff58e4fc-9971-4154-8002-d242421e5e46)
 
+![IMG_3370](https://github.com/user-attachments/assets/ab3aebd7-aa5c-4f61-9645-25c46f74b69f)
+
+![IMG_3371](https://github.com/user-attachments/assets/9c33275f-1688-44d5-b849-e1f60a2540c0)
+
+![Screenshot (33)](https://github.com/user-attachments/assets/af24d722-209c-4319-b4a6-a351bf3edc35)
+
+![Screenshot (19)](https://github.com/user-attachments/assets/58b36a02-29b6-4325-a9f1-2e96c394d603)
 
 ### Results
 ---
