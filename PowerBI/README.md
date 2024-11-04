@@ -11,6 +11,12 @@
 
 [Data Analysis Process](#data-analysis-process)
 
+[Results](#results)
+
+[Recommendations](#recommendations)
+
+[Conclusion](#conclusion)
+
 ### Project Overview
 ---
 
