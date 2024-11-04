@@ -53,18 +53,52 @@ Select region, count(CUSTOMER_ID) as Total_CustomerbyRegion FROM [dbo].[LITA Cap
 where region is not null
 group by region order by Total_CustomerbyRegion 
 
+```
+
+```SQL
 select [Subscription_Type], count([Customer_ID]) as Number_of_Customers from [dbo].[LITA Capstone Dataset (1) CSV 2]
 where [Subscription_Type] is not null
 group by [Subscription_Type] order by Number_of_Customers
 
+```
+
+```SQL
+SELECT [Customer_ID], [Subscription_Start], [SubscriptionEnd] FROM [dbo].[LITA Capstone Dataset (1) CSV 2]
+WHERE [Canceled] = 'TRUE' AND DATEDIFF(month, [Subscription_Start], [SubscriptionEnd]) <= 6
+
+```
+
+```SQL
+select AVG(DATEDIFF(day, [Subscription_Start], [SubscriptionEnd])) as Average_Subscription_Duration from [dbo].[LITA Capstone Dataset (1) CSV 2]
+```
+
+```SQL
+SELECT [Customer_Id] FROM [dbo].[LITA Capstone Dataset (1) CSV 2]
+WHERE DATEDIFF(MONTH, [Subscription_Start], [SubscriptionEnd]) > 12
+
+```
+
+```SQL
 select [Subscription_Type], sum([Revenue]) as TotalRevenue_by_SubscriptionType from [dbo].[LITA Capstone Dataset (1) CSV 2]
 where [Subscription_Type] is not null
 group by  [Subscription_Type]  order by TotalRevenue_by_SubscriptionType
 
+```
 
+```SQL
+SELECT TOP 3 [Region], COUNT([Canceled]) AS Sum_of_SubscriptionCancellation
+FROM [dbo].[LITA Capstone Dataset (1) CSV 2]
+WHERE [Canceled] = 'TRUE'
+GROUP BY [Region] ORDER BY Sum_of_SubscriptionCancellation DESC
 
 ```
 
+```SQL
+SELECT [Canceled], COUNT([Canceled]) AS STATUS_COUNT FROM [dbo].[LITA Capstone Dataset (1) CSV 2]
+WHERE [Revenue] IS NOT NULL
+GROUP BY [Canceled] ORDER BY STATUS_COUNT
+
+```
 
 
 
