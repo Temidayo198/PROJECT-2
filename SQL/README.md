@@ -14,7 +14,7 @@
 
 ### Project Overview
 ---
-This project aims to provide a comprehensive analysis of sales data for a retail store, identifying key insights to improve business strategies and drive sales growth. Through this analysis, we explore product performance, regional sales distribution, and monthly sales trends to uncover factors contributing to revenue and customer demand patterns using SQL.
+This project involve analyzing customer data from a subscription service to identify distinct customer segments based on their subscription patterns, preferences, and behaviors.
 
 ### Project Objectives
 ---
