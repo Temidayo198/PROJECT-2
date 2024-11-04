@@ -25,6 +25,7 @@ The goal is to;
    
 ### Data Source
 ---
+The dataset used for this analysis was provided by the course facilitator as part of the capstone project for data analysis training.
 
 ### Tool Used
 ---
