@@ -47,6 +47,8 @@ Data Integration: This involve connecting to Excel to fetch my data.
 
 Data Visualization: The use of various visual elements (charts, graphs, tables, cards) to represent data visually.
 
+
+
 ### Results
 ---
 
@@ -65,13 +67,13 @@ The Basic subscription type generates the highest revenue, totaling $33.78 milli
 ### Recommendations
 ---
 
-- **`Optimize Basic Subscription Offerings`**: Given that the Basic subscription is the most popular, consider adding incremental value to this tier to retain customers who may eventually switch to competitors offering more benefits at a similar price point. This could include limited premium features to encourage upsells.
+- Optimize Basic Subscription Offerings: Given that the Basic subscription is the most popular, consider adding incremental value to this tier to retain customers who may eventually switch to competitors offering more benefits at a similar price point. This could include limited premium features to encourage upsells.
 
-- **`Targeted Upsell and Retention Strategy for Premium and Standard Subscribers`**: Since Premium and Standard subscriptions generate substantial revenue, create tailored marketing campaigns to retain these customers and potentially encourage Basic users to upgrade. Offering occasional incentives or exclusive content for Standard and Premium users might increase their perceived value and satisfaction.
+- Targeted Upsell and Retention Strategy for Premium and Standard Subscribers: Since Premium and Standard subscriptions generate substantial revenue, create tailored marketing campaigns to retain these customers and potentially encourage Basic users to upgrade. Offering occasional incentives or exclusive content for Standard and Premium users might increase their perceived value and satisfaction.
 
-- **`Loyalty Programs for High-Value Customers`**: Introduce loyalty rewards or personalized offers for high-value subscribers like Liam, Mike, and Sophia to retain these valuable customers. A loyalty program could enhance customer retention, especially for the top revenue-generating users.
+- Loyalty Programs for High-Value Customers: Introduce loyalty rewards or personalized offers for high-value subscribers like Liam, Mike, and Sophia to retain these valuable customers. A loyalty program could enhance customer retention, especially for the top revenue-generating users.
 
-- **`Focus on New Customer Acquisition`**: With only 20 unique customers, scaling up customer acquisition efforts could have a significant impact on total revenue. Expanding marketing efforts to target a larger audience and increase the customer base could help mitigate risks associated with relying heavily on a few high-value customers.
+- Focus on New Customer Acquisition: With only 20 unique customers, scaling up customer acquisition efforts could have a significant impact on total revenue. Expanding marketing efforts to target a larger audience and increase the customer base could help mitigate risks associated with relying heavily on a few high-value customers.
 
 ### Conclusion
 ---
