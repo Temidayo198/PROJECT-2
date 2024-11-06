@@ -47,7 +47,7 @@ Data Integration: This involve connecting to Excel to fetch my data.
 
 Data Visualization: The use of various visual elements (charts, graphs, tables, cards) to represent data visually.
 
-
+![Screenshot (61)](https://github.com/user-attachments/assets/2758e3f5-9a7f-4c20-865a-9568c311b772)
 
 ### Results
 ---
